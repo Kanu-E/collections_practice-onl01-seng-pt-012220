@@ -31,4 +31,6 @@ def find_a(array)
 end
 end  
 
-def 
+def sum_array 
+  
+end  
